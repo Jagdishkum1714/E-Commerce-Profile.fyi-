@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "img": "/images/Product1.jpg",
+      "name": "Wireless Headphones",
+      "price": 59.99,
+      "description": "Comfortable wireless headphones with noise cancellation and long battery life."
+    },
+    {
+      "id": 2,
+      "img": "/images/Product2.png",
+      "name": "Smartwatch",
+      "price": 129.99,
+      "description": "Feature-packed smartwatch with fitness tracking, heart rate monitoring, and customizable watch faces."
+    },
+    {
+      "id": 3,
+      "img": "/images/Product3.png",
+      "name": "Portable Bluetooth Speaker",
+      "price": 39.99,
+      "description": "Compact and powerful Bluetooth speaker with rich sound and a durable, water-resistant design."
+    },
+    {
+      "id": 4,
+      "img": "/images/Product4.png",
+      "name": "Laptop Stand",
+      "price": 29.99,
+      "description": "Ergonomic laptop stand with adjustable height and angle to improve posture and comfort."
+    },
+    {
+      "id": 5,
+      "img": "/images/Product5.png",
+      "name": "USB-C Hub",
+      "price": 24.99,
+      "description": "Versatile USB-C hub with multiple ports, including HDMI, USB 3.0, and SD card reader."
+    },
+    {
+        "id": 6,
+        "img": "/images/Product6.png",
+        "name": "Smart Home Assistant",
+        "price": 89.99,
+        "description": "Voice-controlled smart home assistant with smart speaker and integrated AI."
+      },
+      {
+        "id": 7,
+        "img": "/images/Product7.png",
+        "name": "Electric Toothbrush",
+        "price": 49.99,
+        "description": "Advanced electric toothbrush with multiple brushing modes and a long-lasting battery."
+      },
+      {
+        "id": 8,
+        "img": "/images/Product8.png",
+        "name": "Digital Camera",
+        "price": 349.99,
+        "description": "High-resolution digital camera with optical zoom and various shooting modes."
+      },
+      {
+        "id": 9,
+        "img": "/images/Product9.png",
+        "name": "Fitness Tracker",
+        "price": 79.99,
+        "description": "Wearable fitness tracker with heart rate monitoring, step counting, and sleep analysis."
+      },
+      {
+        "id": 10,
+        "img": "/images/Product10.png",
+        "name": "Tablet",
+        "price": 299.99,
+        "description": "Versatile tablet with a high-resolution display, fast processor, and long battery life."
+      }
+  ]
+  
